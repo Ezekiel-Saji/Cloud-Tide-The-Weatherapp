@@ -65,7 +65,7 @@ The app leverages state-of-the-art AI and data sources for accuracy and intellig
 
 1.  **Clone this masterpiece**:
     ```bash
-    git clone []
+    git clone [https://github.com/Ezekiel-Saji/Cloud-Tide-The-Weatherapp.git]
     cd weatherapp21
     ```
 
