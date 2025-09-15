@@ -1,12 +1,12 @@
-# 🌦️ I Told You So... Weather App  
+# 🌦️Coud Tide The Weather App  
 
 *A next-generation AI-powered weather application that blends accurate forecasts with intelligent, context-aware insights.*  
 
 ## 🎯 Overview  
 
-**I Told You So** is not just another weather app — it’s an **AI-driven experience** that delivers real-time forecasts along with intelligent commentary, lifestyle recommendations, and personalized travel suggestions. By combining multiple APIs with advanced orchestration, the app transforms everyday weather data into actionable insights and an engaging user experience.  
+**Coud Tide** is not just another weather app — it’s an **AI-driven experience** that delivers real-time forecasts along with intelligent commentary, lifestyle recommendations, and personalized travel suggestions. By combining multiple APIs with advanced orchestration, the app transforms everyday weather data into actionable insights and an engaging user experience.  
 
-🚨 **Note**: This is a **group project** proudly built by **Team CodeStorm** (Ezekiel, Alphonse, and Kevin). We used **v0** as our frontend development tool and integrated all AI services to make our app lively.  
+🚨 **Note**: This is a **group project** proudly built by **Synergy Squad** (Ezekiel, Alphonse, and Kevin). We used **v0** as our frontend development tool and integrated all AI services to make our app lively.  
 
 ## 🤖 AI Integration  
 
@@ -63,7 +63,38 @@ The app leverages state-of-the-art AI and data sources for accuracy and intellig
 
 ## 🚀 Getting Started  
 
-1. Clone the repository:  
-   ```bash
-   git clone [your-repo-url]
-   cd weatherapp21
+1. **Clone this masterpiece**:
+    \\\bash
+    git clone [your-repo-url]
+    cd weatherapp21 \\\
+2. **Install dependencies**:
+    \\\bash
+    npm install \\\
+3. **Set up your environment variables**:
+    \\\bash
+    OPENWEATHER_API_KEY=your_openweather_api_key
+    GOOGLE_GENERATIVE_AI_API_KEY=your_google_ai_api_key \\\
+5. **Run the development server**:
+     \\\bash
+     npm run dev \\\
+🌐 API Endpoints
+
+-/api/weather – Core weather data
+-/api/sarcasm – AI-generated commentary
+-/api/fashion – Fashion recommendations
+-/api/relationship – Lifestyle/relationship insights
+-/api/travel/real – Travel guidance
+-/api/notifications – Notification handling
+
+🤝 Contributing
+
+Contributions are welcome. Please ensure that any additions align with the project’s focus on accuracy, usability, and intelligent user interaction.
+
+📄 License
+
+This project is licensed under the "I Told You So" License - meaning we reserve the right to say we told you so about literally everything.
+---
+**Remember**: This isn't just a weather app. It's a lifestyle choice. A commitment to truth. A relationship with reality that most people aren't ready for.
+*Weather data provided by OpenWeatherMap. Sass provided by our AI. Regret provided by your life choices.*
+
+🌦️Coud Tide – Redefining the weather app experience with AI-powered intelligence and engaging design.
