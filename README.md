@@ -61,32 +61,41 @@ The app leverages state-of-the-art AI and data sources for accuracy and intellig
 - **API Integrations** – Multi-source orchestration for advanced features  
 - **Robust Error Handling** – Stable performance under all conditions  
 
-## 🚀 Getting Started  
+## 🚀 Getting Started
 
-1. **Clone this masterpiece**:
-    \\\bash
-    git clone [your-repo-url]
-    cd weatherapp21 \\\
-2. **Install dependencies**:
-    \\\bash
-    npm install \\\
-3. **Set up your environment variables**:
-    \\\bash
+1.  **Clone this masterpiece**:
+    ```bash
+    git clone []
+    cd weatherapp21
+    ```
+
+2.  **Install dependencies**:
+    ```bash
+    npm install
+    ```
+
+3.  **Set up your environment variables**:
+    ```bash
     OPENWEATHER_API_KEY=your_openweather_api_key
-    GOOGLE_GENERATIVE_AI_API_KEY=your_google_ai_api_key \\\
-5. **Run the development server**:
-     \\\bash
-     npm run dev \\\
-🌐 API Endpoints
+    GOOGLE_GENERATIVE_AI_API_KEY=your_google_ai_api_key
+    ```
 
--/api/weather – Core weather data
--/api/sarcasm – AI-generated commentary
--/api/fashion – Fashion recommendations
--/api/relationship – Lifestyle/relationship insights
--/api/travel/real – Travel guidance
--/api/notifications – Notification handling
+4.  **Run the development server**:
+    ```bash
+    npm run dev
+    ```
 
-🤝 Contributing
+    Open your browser at `http://localhost:3000`
+
+## 🌐 API Endpoints
+
+-   `/api/weather` – Core weather data
+-   `/api/sarcasm` – AI-generated commentary
+-   `/api/fashion` – Fashion recommendations
+-   `/api/relationship` – Lifestyle/relationship insights
+-   `/api/travel/real` – Travel guidance
+-   `/api/notifications` – Notification handling
+## 🤝 Contributing
 
 Contributions are welcome. Please ensure that any additions align with the project’s focus on accuracy, usability, and intelligent user interaction.
 
